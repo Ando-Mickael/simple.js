@@ -1,0 +1,25 @@
+{
+  "name": "simple.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Ando Mickael Ramahenina",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.2.0",
+    "express": "^4.18.2",
+    "knex": "^2.4.2",
+    "multer": "1.4.5-lts.1",
+    "nodemailer": "^6.9.3",
+    "openai": "^3.3.0",
+    "pg": "^8.11.0"
+  }
+}

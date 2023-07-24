@@ -1,0 +1,2 @@
+# select * from personne where nom like '%Jean%'
+GET http://localhost:1234/crud/personne?nom=Jean

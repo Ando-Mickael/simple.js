@@ -1,0 +1,8 @@
+# folders
+node_modules
+
+# files
+.env
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
